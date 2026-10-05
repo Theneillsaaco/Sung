@@ -38,6 +38,8 @@
 !/assets/icons/*.svg
 /licenses/*
 !/licenses/MaterialSymbols-LICENSE.txt
+!/flake.nix
+!/flake.lock
 
 # Private state, credentials, build products and editor/assistant files.
 **/__pycache__/
